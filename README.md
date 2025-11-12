@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello! I'm Sofia Sousa 🫧
 
-<!--
-**Sia-Sousa/Sia-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ABOUT ME
 
-Here are some ideas to get you started:
+- My background is in P​philosophy of mathematics, physics, and logic; with a degree in Philosophy and a Master's degree in History and Philosophy of Science.
+- My passion for logic gradually led me to explore the world of programming and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Learning
+
+- C/C++
+- Python
+- SQL
+- Java
